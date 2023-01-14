@@ -18,7 +18,7 @@
     "live-server": "^1.2.1",
     "remove": "^0.1.5",
     "webpack": "^4.28.2",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.1.14"
   }
 }
